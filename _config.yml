@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "V Pilot"
   avatar           : "profile.png"
-  bio              : "Flight Simulator Enthusiast since 1998-"
+  bio              : "Flight Simulator Enthusiast since 1998"
   location         : "USA"
   email            :
   researchgate     :  
@@ -112,7 +112,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  discord          :"v-pilot"
 
 
 # Reading Files
